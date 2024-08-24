@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QFo8k9WbwUxw2+v5/4WgleGZldkom2URiGpwbt0C75M=",
+  "Source": "jwt-client",
+  "BasePath": "_content/jwt-client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
